@@ -1,7 +1,6 @@
 # matlab-esn
 
-## Title:
-A flexible and extensible echo state network (ESN) framework for Matlab.
+## A flexible and extensible echo state network (ESN) framework for Matlab.
 
 
 ## Summary: 
