@@ -13,7 +13,7 @@ ESN also falls under a broader systems called reservoir computing whose premise 
 This framework is specially designed to be highly flexible for adopting different update mechanisms, time evolution, training, connectivity, and transfer functions. Several examples are given under the examples directory.
 
 
-CONTACT: 
+## Contact: 
 For any question contact Alireza Goudarzi: alirezag@cs.unm.edu
 
 
