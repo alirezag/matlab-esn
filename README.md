@@ -17,13 +17,10 @@ This framework is specially designed to be highly flexible for adopting differen
 For any question contact Alireza Goudarzi: alirezag@cs.unm.edu
 
 
-- Publications: 
-- A. Goudarzi and A. Shabani and D. Stefanovic, Exploring Transfer Function Nonlinearity in Echo State Networks, CISDA 2015, arXiv:1502.04423 [cs.NE]
+## Publications: 
+- A. Goudarzi and A. Shabani and D. Stefanovic, Exploring Transfer Function Nonlinearity in Echo State Networks, CISDA 2015, arXv:1502.04423 [cs.NE]
 
 - A. Goudarzi and A. Shabani and D. Stefanovic, Product Echo State Networks: Time-Series Computation with Multiplicative Neurons, IJCNN 2015, arXiv:1502.00718 [cs.NE].
-
 - A. Goudarzi and D. Stefanovic, Towards a Calculus of Echo State Networks, to appear in BICA Procedia, 2014, arXiv:1409.0280 [cs.NE]. 
-
 - A. Goudarzi and M. R. Lakin and D. Stefanovic and C. Teuscher. A Model for Variation- and Fault-Tolerant Digital Logic using Self-Assembled Nanowire Architectures, Proceedings of the 2014 IEEE/ACM International Symposium on Nanoscale Architectures (NANOARCH), 2014, arXiv:1406.3433v1 [cs.ET].
-
 - A. Goudarzi and M. R. Lakin and D. Stefanovic. Reservoir Computing Approach to Robust Computation using Unreliable nanoscale Networks,Unconventional Computation and Natural Computation, pp. 164-176, 2014, aXiv:1405.0296 [cs.ET].
