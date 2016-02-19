@@ -16,6 +16,9 @@ This framework is specially designed to be highly flexible for adopting differen
 ## Contact: 
 For any question contact Alireza Goudarzi: alirezag@cs.unm.edu
 
+## My pages: 
+https://sites.google.com/site/alirezagoudarzi/
+
 
 ## Publications: 
 - A. Goudarzi and A. Shabani and D. Stefanovic, Exploring Transfer Function Nonlinearity in Echo State Networks, CISDA 2015, arXv:1502.04423 [cs.NE]
