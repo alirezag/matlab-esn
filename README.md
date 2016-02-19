@@ -3,7 +3,7 @@
 ## A flexible and extensible echo state network (ESN) framework for Matlab.
 
 
-## Summary: 
+### Summary: 
 ESN is a type of input driven recurrent neural network (RNN) where the input and recurrent connections are initialized with no further adaptation. It uses a linear readout layer trained with ordinary linear regression to produce a desired output. Due to limited learning it is very fast but has representational limitations and therefore cannot be applied to all problems. Specifically, if the problem can benefit from a short-term memory (STM), then ESN is a very fast and accurate way to solve the problem. Note that, temporal problems that can benefit from STM are not limited to those with short temporal dependencies. For example ESN has the state-of-the-art performance in chaotic perdiction where the correlation length may be arbitrarily long. 
 
 ESN also falls under a broader systems called reservoir computing whose premise is to use the transient dynamics of a fixed system for signal processing. This model is specially attractive for unconventional computing researchers for example those working with self-assembeld nanoscale wires or other physical substrates such as DNA. 
