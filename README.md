@@ -13,7 +13,7 @@ This framework is specially designed to be highly flexible for adopting differen
 
 
 #### Contact: 
-For any question contact Alireza Goudarzi: alirezag@cs.unm.edu
+For any question contact Alireza Goudarzi: alireza.goudarzi@riken.jp
 
 #### My pages: 
 https://sites.google.com/site/alirezagoudarzi/
